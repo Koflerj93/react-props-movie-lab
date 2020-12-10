@@ -1,8 +1,11 @@
 # React Props Movie Lab
-
+// Component is like a piece of a puzzle 
+// What pieces do i have?
+// What pieces do i need?
+// What should the pieces do?
 ## Objectives
 
-- Practice passing props from parent components to children
+- Practice p assing props from parent components tochildren
 - Practice using default props
 - Practice jumping into and improving existing code
 
@@ -18,7 +21,7 @@ Following is the component tree. When fully rendered, there are **9**
 `MovieCards` rendered by `MovieShowcase`:
 
 ```text
-└── MovieShowcase
+└── MovieShowcase 
     │
     ├── MovieCard
     │   ├── CardFront
